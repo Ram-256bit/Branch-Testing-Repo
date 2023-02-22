@@ -1,3 +1,6 @@
 Apple
 Black
 Cat
+Dog
+Elephant
+Fish
